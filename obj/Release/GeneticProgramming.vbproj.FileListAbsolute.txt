@@ -1,0 +1,9 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\GeneticProgramming\GeneticProgramming\bin\Release\GeneticProgramming.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\GeneticProgramming\GeneticProgramming\bin\Release\GeneticProgramming.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\GeneticProgramming\GeneticProgramming\bin\Release\GeneticProgramming.xml
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\GeneticProgramming\GeneticProgramming\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\GeneticProgramming\GeneticProgramming\obj\Release\GeneticProgramming.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\GeneticProgramming\GeneticProgramming\obj\Release\GeneticProgramming.vbproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\GeneticProgramming\GeneticProgramming\obj\Release\GeneticProgramming.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\GeneticProgramming\GeneticProgramming\obj\Release\GeneticProgramming.xml
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\GeneticProgramming\GeneticProgramming\obj\Release\GeneticProgramming.pdb
