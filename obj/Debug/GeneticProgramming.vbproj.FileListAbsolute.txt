@@ -18,3 +18,7 @@ C:\Users\Brian\Documents\Visual Studio 2008\Projects\GeneticProgramming\GeneticP
 C:\Users\Brian\Documents\Visual Studio 2008\Projects\GeneticProgramming\GeneticProgramming\bin\Debug\GeneticProgramming.exe.config
 C:\Users\Brian\Documents\Visual Studio 2008\Projects\GeneticProgramming\GeneticProgramming\obj\Debug\ResGen.read.1.tlog
 C:\Users\Brian\Documents\Visual Studio 2008\Projects\GeneticProgramming\GeneticProgramming\obj\Debug\ResGen.write.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\bin\Debug\GeneticProgramming.exe.config
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\obj\Debug\GeneticProgramming.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\obj\Debug\GeneticProgramming.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\obj\Debug\GeneticProgramming.pdb
