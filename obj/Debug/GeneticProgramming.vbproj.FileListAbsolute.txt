@@ -22,3 +22,10 @@ C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticP
 C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\obj\Debug\GeneticProgramming.exe
 C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\obj\Debug\GeneticProgramming.xml
 C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\obj\Debug\GeneticProgramming.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\bin\Debug\GeneticProgramming.exe
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\bin\Debug\GeneticProgramming.pdb
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\bin\Debug\GeneticProgramming.xml
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\obj\Debug\GeneticProgramming.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\obj\Debug\ResGen.read.1.tlog
+C:\Users\Brian\Documents\Visual Studio 2010\Projects\GeneticProgramming\GeneticProgramming\obj\Debug\ResGen.write.1.tlog

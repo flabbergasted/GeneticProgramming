@@ -75,11 +75,14 @@ Public Class Gene
         Dim resultDNA, newValue As String
         Dim randomNumber, mySplitPoint, mateSplitPoint As Integer
         Dim a, b As Char
+
         mySplitPoint = myDNA.Length \ 2
         a = myDNA(mySplitPoint)
         mateSplitPoint = mateDNA.Length \ 2
         b = mateDNA(mateSplitPoint)
 
+        'Ensure the split point for both parents is at the same location, 
+        'to preserve the equation (otherwise you could get something like 7++8-3 for example, can't have 2 operators next to each other)
         If Not isEven(mySplitPoint) Then
             mySplitPoint = mySplitPoint + 1
         End If
@@ -88,12 +91,14 @@ Public Class Gene
             mateSplitPoint = mateSplitPoint + 1
         End If
 
+        'Make the child DNA out of the 2 halves of the parents
         newValue = ""
         resultDNA = myDNA.Substring(0, mySplitPoint) + mateDNA.Substring(mateSplitPoint)
 
-        'loop through and randomly change individual chars to simulate transcription errors
+        'loop through and randomly change individual chars to simulate transcription errors (A.K.A Mutation, affected by the Mutation Chance in the config)
         For i As Integer = 0 To resultDNA.Length - 1
             randomNumber = enumGenome.ran.Next(0, 100)
+            'Make sure and swap out the old char with another valid character, to preserve the equation
             If isEven(i) Then
                 newValue = enumGenome.ran.Next(minNumber, maxNumber).ToString
             Else
@@ -112,17 +117,9 @@ Public Class Gene
 
     End Function
 
+    'Takes the mod 2 of the number passed in, if it's a 1 the number is odd, if it's a 0 the number is even.
     Public Function isEven(ByVal i As Integer) As Boolean
-        Dim number As String
-
-        number = i.ToString
-
-        If number(number.Length - 1) = "0" Or number(number.Length - 1) = "2" Or number(number.Length - 1) = "4" Or number(number.Length - 1) = "6" Or number(number.Length - 1) = "8" Then
-            Return True
-        End If
-
-        Return False
-
+        Return Not CType(i Mod 2, Boolean)
     End Function
 
     Private Function GenerateDNA() As String
